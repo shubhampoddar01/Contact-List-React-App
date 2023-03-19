@@ -64,7 +64,7 @@ const UpdateContact = () => {
 
         dispatch({ type: 'UPDATE_CONTACT', payload: data });
         toast.success("Contact updated successfully!");
-        navigate('/Contact_List_App');
+        navigate('/contact-list');
     };
 
     return (

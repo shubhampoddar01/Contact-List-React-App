@@ -4,7 +4,7 @@ import "../index.css";
         const Navbar = () => {
             return (
                 <nav className='navbar'>
-                   <Link style={{color:"white"}} to='/Contact_List_App'>Contacts</Link> 
+                   <Link style={{color:"white"}} to='/contact-list'>Contacts</Link> 
                 </nav>
             )
         }
