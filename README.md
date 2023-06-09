@@ -1,4 +1,5 @@
 Deployment Link: https://shubhampoddar01.github.io/Contact-List-React-App/
+You need to click on "Contacts" first.
 
 # Getting Started with Create React App
 
